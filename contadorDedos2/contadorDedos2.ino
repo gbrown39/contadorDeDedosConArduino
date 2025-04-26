@@ -21,7 +21,6 @@ void loop() {
       Serial.read();
     }
   }
-  // Aquí puedes agregar otras tareas que necesite realizar tu Arduino
 }
 
 // Función para mostrar un número en la matriz (0-5)
@@ -92,5 +91,5 @@ void displayNumber(int num) {
       matriz.clearDisplay(0); // Limpiar si el número está fuera del rango
       break;
   }
-  delay(100); // Pequeña pausa para visualización (opcional)
+  delay(100); // Pequeña pausa para visualización
 }
