@@ -1,5 +1,5 @@
 # contadorDeDedosConArduino
-este mini peoyecto sirve para que por medio de la camara se pueda contar el numero de dedos de una mano que este levantado de 0 -5 y asi imprimirlo en la matris de 8x8 con ayuda de arduino uno.
+Este mini proyecto sirve para que por medio de la camara se pueda contar el numero de dedos de una mano que este levantada de 0 -5 y asi imprimirlo en la matris de 8x8 con ayuda de arduino uno.
 
 descripcion
 Sistema de Contador de dedos por camara de la computadora y con Arduino
